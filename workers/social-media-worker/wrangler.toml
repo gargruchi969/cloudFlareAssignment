@@ -1,0 +1,12 @@
+name = "social-media-worker"
+type = "webpack"
+
+account_id = "7a74a5625c4f22286038072992368745"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-08"
+
+kv_namespaces = [ 
+	 { binding = "SM", preview_id = "01bbe0efbeb649e48b3912e5288d55ed", id = "1cd5303e859a455194dc58f48d5b8225" }
+]
